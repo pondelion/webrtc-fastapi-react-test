@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.74e45550.js",
-    "static/js/787.f1760a34.chunk.js": "/static/js/787.f1760a34.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.74e45550.js.map": "/static/js/main.74e45550.js.map",
-    "787.f1760a34.chunk.js.map": "/static/js/787.f1760a34.chunk.js.map"
+    "main.css": "/webrtc-fastapi-react-test/static/css/main.073c9b0a.css",
+    "main.js": "/webrtc-fastapi-react-test/static/js/main.bc520a04.js",
+    "static/js/787.f1760a34.chunk.js": "/webrtc-fastapi-react-test/static/js/787.f1760a34.chunk.js",
+    "index.html": "/webrtc-fastapi-react-test/index.html",
+    "main.073c9b0a.css.map": "/webrtc-fastapi-react-test/static/css/main.073c9b0a.css.map",
+    "main.bc520a04.js.map": "/webrtc-fastapi-react-test/static/js/main.bc520a04.js.map",
+    "787.f1760a34.chunk.js.map": "/webrtc-fastapi-react-test/static/js/787.f1760a34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.74e45550.js"
+    "static/js/main.bc520a04.js"
   ]
 }
