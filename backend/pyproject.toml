@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "aiortc-fastapi-react-test"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "aiortc_fastapi_react_test"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+aiortc = "^1.4.0"
+fastapi = "^0.92.0"
+uvicorn = {extras = ["standard"], version = "^0.20.0"}
+numpy = "^1.24.2"
+opencv-python = "^4.7.0.72"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
